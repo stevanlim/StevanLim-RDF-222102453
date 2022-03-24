@@ -5,15 +5,15 @@ Codeigniter Framework for RDF (Bootstrap Template)
 
 Codeigniter 2.2 templating for easyRDF
 
-<tt>localhost/CI_easyRDF/index.php/basic</tt> (for basic httpGet ) 
+<tt>localhost/semantic_web_011100862/index.php/basic</tt> (for basic httpGet ) 
 
-<tt>localhost/CI_easyRDF/index.php/basic/sparql</tt> (for query SPARQL ) 
+<tt>localhost/semantic_web_011100862/index.php/basic/sparql</tt> (for query SPARQL ) 
 
-<tt>localhost/CI_easyRDF/index.php/basic/foafinfo</tt> (foafinfo) 
+<tt>localhost/semantic_web_011100862/index.php/basic/foafinfo</tt> (foafinfo) 
 
-<tt>localhost/CI_easyRDF/index.php/basic/foafmaker</tt> (foafmaker) 
+<tt>localhost/semantic_web_011100862/index.php/basic/foafmaker</tt> (foafmaker) 
 
-<tt>localhost/CI_easyRDF/index.php/basic/converter</tt> (converter)
+<tt>localhost/semantic_web_011100862/index.php/basic/converter</tt> (converter)
 
  
  
