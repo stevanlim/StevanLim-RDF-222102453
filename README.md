@@ -1,5 +1,5 @@
-CI_easyRDF
-==========
+RDF by Tony Wijaya
+==================
 
 Codeigniter Framework for RDF (Bootstrap Template)
 
