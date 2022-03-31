@@ -9,7 +9,7 @@
  *  
  *  ======================================= 
  */  
-  require_once APPPATH."/third_party/EasyRDF.php"; 
+  require_once APPPATH."/third_party/EasyRdf.php"; 
   
 class Rdf 
 { 
