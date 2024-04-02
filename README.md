@@ -1,4 +1,4 @@
-RDF by Tony Wijaya
+RDF by Stevan Lim
 ==================
 
 Codeigniter Framework for RDF (Bootstrap Template)
